@@ -113,7 +113,7 @@ I also made sure to mask the email before logging for privacy (e.g., `te***@gmai
 ## 4. What I Used GPT For vs What I Did Myself
 
 ### Used GPT For:
-- **Boilerplate code** - Setting up the basic project structure and Compose theme files
+
 - **Syntax help** - Sometimes I forgot the exact Compose modifier syntax
 - **Regex for email validation** - I always have to look this up anyway
 - **String formatting** - The `String.format()` for timer display
