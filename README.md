@@ -171,14 +171,5 @@ app/src/main/java/com/example/project1/
 
 ---
 
-## What I Would Improve
 
-If I had more time, I would:
-- Add unit tests for OtpManager
-- Use Hilt for dependency injection
-- Add some animations between screens
-- Store session data in DataStore so it persists on app kill
-
----
-
-That's pretty much it! The app should build and run without any issues.
+Anuj Gupta
